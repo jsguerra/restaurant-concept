@@ -1,19 +1,19 @@
 {
-  "name": "gulp-4-boilerplate",
+  "name": "restaurant-concept",
   "version": "1.0.0",
   "description": "Gulp 4 starter biolerplate",
   "main": "gulpfile.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jsguerra/gulp-4-boilerplate.git"
+    "url": "git+https://github.com/jsguerra/restaurant-concept.git"
   },
   "keywords": [],
   "author": "Jose Guerra",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jsguerra/gulp-4-boilerplate/issues"
+    "url": "https://github.com/jsguerra/restaurant-concept/issues"
   },
-  "homepage": "https://github.com/jsguerra/gulp-4-boilerplate#readme",
+  "homepage": "https://github.com/jsguerra/restaurant-concept#readme",
   "devDependencies": {
     "autoprefixer": "^9.6.0",
     "browser-sync": "^2.26.7",
